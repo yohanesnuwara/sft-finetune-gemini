@@ -1,0 +1,779 @@
+{
+    "page": "57 of 119",
+    "sample_name": "WFL-01777",
+    "uncorrected": true,
+    "last_component": "C36+",
+    "flashed_oil_mw": 330.8,
+    "flashed_oil_composition": {
+        "components": [
+            {
+                "input_name": "Nitrogen",
+                "mw": null,
+                "molar_amount": null,
+                "mass_amount": null
+            },
+            {
+                "input_name": "Carbon Dioxide",
+                "mw": null,
+                "molar_amount": null,
+                "mass_amount": null
+            },
+            {
+                "input_name": "Hydrogen Sulphide",
+                "mw": null,
+                "molar_amount": null,
+                "mass_amount": null
+            },
+            {
+                "input_name": "Methane",
+                "mw": null,
+                "molar_amount": 0.103,
+                "mass_amount": 0.005
+            },
+            {
+                "input_name": "Ethane",
+                "mw": null,
+                "molar_amount": 0.165,
+                "mass_amount": 0.03
+            },
+            {
+                "input_name": "Propane",
+                "mw": null,
+                "molar_amount": 0.03,
+                "mass_amount": 0.006
+            },
+            {
+                "input_name": "iso-Butane",
+                "mw": null,
+                "molar_amount": 0.006,
+                "mass_amount": 0.001
+            },
+            {
+                "input_name": "n-Butane",
+                "mw": null,
+                "molar_amount": 0.017,
+                "mass_amount": 0.003
+            },
+            {
+                "input_name": "Neopentane",
+                "mw": null,
+                "molar_amount": 0.009,
+                "mass_amount": 0.002
+            },
+            {
+                "input_name": "iso-Pentane",
+                "mw": null,
+                "molar_amount": 0.005,
+                "mass_amount": 0.001
+            },
+            {
+                "input_name": "n-Pentane",
+                "mw": null,
+                "molar_amount": 0.005,
+                "mass_amount": 0.001
+            },
+            {
+                "input_name": "Hexanes",
+                "mw": null,
+                "molar_amount": 0.077,
+                "mass_amount": 0.02
+            },
+            {
+                "input_name": "Heptanes",
+                "mw": null,
+                "molar_amount": 0.136,
+                "mass_amount": 0.039
+            },
+            {
+                "input_name": "Octanes",
+                "mw": null,
+                "molar_amount": 0.405,
+                "mass_amount": 0.136
+            },
+            {
+                "input_name": "Nonanes",
+                "mw": null,
+                "molar_amount": 1.019,
+                "mass_amount": 0.382
+            },
+            {
+                "input_name": "Decanes",
+                "mw": null,
+                "molar_amount": 2.138,
+                "mass_amount": 0.866
+            },
+            {
+                "input_name": "Undecanes",
+                "mw": null,
+                "molar_amount": 2.71,
+                "mass_amount": 1.204
+            },
+            {
+                "input_name": "Dodecanes",
+                "mw": null,
+                "molar_amount": 3.682,
+                "mass_amount": 1.792
+            },
+            {
+                "input_name": "Tridecanes",
+                "mw": null,
+                "molar_amount": 5.045,
+                "mass_amount": 2.669
+            },
+            {
+                "input_name": "Tetradecanes",
+                "mw": null,
+                "molar_amount": 6.608,
+                "mass_amount": 3.795
+            },
+            {
+                "input_name": "Pentadecanes",
+                "mw": null,
+                "molar_amount": 6.248,
+                "mass_amount": 3.891
+            },
+            {
+                "input_name": "Hexadecanes",
+                "mw": null,
+                "molar_amount": 5.394,
+                "mass_amount": 3.62
+            },
+            {
+                "input_name": "Heptadecanes",
+                "mw": null,
+                "molar_amount": 4.848,
+                "mass_amount": 3.473
+            },
+            {
+                "input_name": "Octadecanes",
+                "mw": null,
+                "molar_amount": 4.593,
+                "mass_amount": 3.485
+            },
+            {
+                "input_name": "Nonadecanes",
+                "mw": null,
+                "molar_amount": 4.322,
+                "mass_amount": 3.436
+            },
+            {
+                "input_name": "Eicosanes",
+                "mw": null,
+                "molar_amount": 3.895,
+                "mass_amount": 3.238
+            },
+            {
+                "input_name": "C21",
+                "mw": null,
+                "molar_amount": 3.639,
+                "mass_amount": 3.201
+            },
+            {
+                "input_name": "C22",
+                "mw": null,
+                "molar_amount": 3.313,
+                "mass_amount": 3.004
+            },
+            {
+                "input_name": "C23",
+                "mw": null,
+                "molar_amount": 3.048,
+                "mass_amount": 2.875
+            },
+            {
+                "input_name": "C24",
+                "mw": null,
+                "molar_amount": 2.739,
+                "mass_amount": 2.683
+            },
+            {
+                "input_name": "C25",
+                "mw": null,
+                "molar_amount": 2.448,
+                "mass_amount": 2.494
+            },
+            {
+                "input_name": "C26",
+                "mw": null,
+                "molar_amount": 2.285,
+                "mass_amount": 2.411
+            },
+            {
+                "input_name": "C27",
+                "mw": null,
+                "molar_amount": 2.169,
+                "mass_amount": 2.36
+            },
+            {
+                "input_name": "C28",
+                "mw": null,
+                "molar_amount": 2.11,
+                "mass_amount": 2.373
+            },
+            {
+                "input_name": "C29",
+                "mw": null,
+                "molar_amount": 1.95,
+                "mass_amount": 2.252
+            },
+            {
+                "input_name": "C30",
+                "mw": null,
+                "molar_amount": 1.886,
+                "mass_amount": 2.246
+            },
+            {
+                "input_name": "C31",
+                "mw": null,
+                "molar_amount": 1.681,
+                "mass_amount": 2.053
+            },
+            {
+                "input_name": "C32",
+                "mw": null,
+                "molar_amount": 1.506,
+                "mass_amount": 1.889
+            },
+            {
+                "input_name": "C33",
+                "mw": null,
+                "molar_amount": 1.357,
+                "mass_amount": 1.747
+            },
+            {
+                "input_name": "C34",
+                "mw": null,
+                "molar_amount": 1.234,
+                "mass_amount": 1.63
+            },
+            {
+                "input_name": "C35",
+                "mw": null,
+                "molar_amount": 1.147,
+                "mass_amount": 1.543
+            },
+            {
+                "input_name": "C36+",
+                "mw": null,
+                "molar_amount": 16.029,
+                "mass_amount": 33.161
+            }
+        ]
+    },
+    "flashed_gas_mw": 17.55,
+    "flashed_gas_specific_gravity": 0.606,
+    "flashed_gas_specific_gravity_unit": "SG",
+    "flashed_gas_composition": {
+        "components": [
+            {
+                "input_name": "Nitrogen",
+                "mw": null,
+                "molar_amount": 0.229,
+                "mass_amount": 0.366
+            },
+            {
+                "input_name": "Carbon Dioxide",
+                "mw": null,
+                "molar_amount": 0.183,
+                "mass_amount": 0.458
+            },
+            {
+                "input_name": "Hydrogen Sulphide",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Methane",
+                "mw": null,
+                "molar_amount": 90.342,
+                "mass_amount": 82.572
+            },
+            {
+                "input_name": "Ethane",
+                "mw": null,
+                "molar_amount": 8.711,
+                "mass_amount": 14.923
+            },
+            {
+                "input_name": "Propane",
+                "mw": null,
+                "molar_amount": 0.364,
+                "mass_amount": 0.916
+            },
+            {
+                "input_name": "iso-Butane",
+                "mw": null,
+                "molar_amount": 0.034,
+                "mass_amount": 0.114
+            },
+            {
+                "input_name": "n-Butane",
+                "mw": null,
+                "molar_amount": 0.042,
+                "mass_amount": 0.138
+            },
+            {
+                "input_name": "Neopentane",
+                "mw": null,
+                "molar_amount": 0.019,
+                "mass_amount": 0.08
+            },
+            {
+                "input_name": "iso-Pentane",
+                "mw": null,
+                "molar_amount": 0.004,
+                "mass_amount": 0.015
+            },
+            {
+                "input_name": "n-Pentane",
+                "mw": null,
+                "molar_amount": 0.005,
+                "mass_amount": 0.019
+            },
+            {
+                "input_name": "Hexanes",
+                "mw": null,
+                "molar_amount": 0.022,
+                "mass_amount": 0.107
+            },
+            {
+                "input_name": "Heptanes",
+                "mw": null,
+                "molar_amount": 0.014,
+                "mass_amount": 0.074
+            },
+            {
+                "input_name": "Octanes",
+                "mw": null,
+                "molar_amount": 0.012,
+                "mass_amount": 0.072
+            },
+            {
+                "input_name": "Nonanes",
+                "mw": null,
+                "molar_amount": 0.01,
+                "mass_amount": 0.07
+            },
+            {
+                "input_name": "Decanes",
+                "mw": null,
+                "molar_amount": 0.007,
+                "mass_amount": 0.054
+            },
+            {
+                "input_name": "Undecanes",
+                "mw": null,
+                "molar_amount": 0.002,
+                "mass_amount": 0.021
+            },
+            {
+                "input_name": "Dodecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.002
+            },
+            {
+                "input_name": "Tridecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Tetradecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Pentadecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Hexadecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Heptadecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Octadecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Nonadecanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Eicosanes",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C21",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C22",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C23",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C24",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C25",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C26",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C27",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C28",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C29",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C30",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C31",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C32",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C33",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C34",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C35",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "C36+",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            }
+        ]
+    },
+    "recombined_fluid_mw": 181.9,
+    "recombined_fluid_composition": {
+        "components": [
+            {
+                "input_name": "Nitrogen",
+                "mw": null,
+                "molar_amount": 0.109,
+                "mass_amount": 0.017
+            },
+            {
+                "input_name": "Carbon Dioxide",
+                "mw": null,
+                "molar_amount": 0.087,
+                "mass_amount": 0.021
+            },
+            {
+                "input_name": "Hydrogen Sulphide",
+                "mw": null,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "input_name": "Methane",
+                "mw": null,
+                "molar_amount": 42.992,
+                "mass_amount": 3.791
+            },
+            {
+                "input_name": "Ethane",
+                "mw": null,
+                "molar_amount": 4.227,
+                "mass_amount": 0.699
+            },
+            {
+                "input_name": "Propane",
+                "mw": null,
+                "molar_amount": 0.189,
+                "mass_amount": 0.046
+            },
+            {
+                "input_name": "iso-Butane",
+                "mw": null,
+                "molar_amount": 0.019,
+                "mass_amount": 0.006
+            },
+            {
+                "input_name": "n-Butane",
+                "mw": null,
+                "molar_amount": 0.029,
+                "mass_amount": 0.009
+            },
+            {
+                "input_name": "Neopentane",
+                "mw": null,
+                "molar_amount": 0.014,
+                "mass_amount": 0.006
+            },
+            {
+                "input_name": "iso-Pentane",
+                "mw": null,
+                "molar_amount": 0.004,
+                "mass_amount": 0.002
+            },
+            {
+                "input_name": "n-Pentane",
+                "mw": null,
+                "molar_amount": 0.005,
+                "mass_amount": 0.002
+            },
+            {
+                "input_name": "Hexanes",
+                "mw": null,
+                "molar_amount": 0.051,
+                "mass_amount": 0.024
+            },
+            {
+                "input_name": "Heptanes",
+                "mw": null,
+                "molar_amount": 0.078,
+                "mass_amount": 0.041
+            },
+            {
+                "input_name": "Octanes",
+                "mw": null,
+                "molar_amount": 0.218,
+                "mass_amount": 0.133
+            },
+            {
+                "input_name": "Nonanes",
+                "mw": null,
+                "molar_amount": 0.539,
+                "mass_amount": 0.368
+            },
+            {
+                "input_name": "Decanes",
+                "mw": null,
+                "molar_amount": 1.125,
+                "mass_amount": 0.829
+            },
+            {
+                "input_name": "Undecanes",
+                "mw": null,
+                "molar_amount": 1.423,
+                "mass_amount": 1.15
+            },
+            {
+                "input_name": "Dodecanes",
+                "mw": null,
+                "molar_amount": 1.932,
+                "mass_amount": 1.71
+            },
+            {
+                "input_name": "Tridecanes",
+                "mw": null,
+                "molar_amount": 2.647,
+                "mass_amount": 2.547
+            },
+            {
+                "input_name": "Tetradecanes",
+                "mw": null,
+                "molar_amount": 3.467,
+                "mass_amount": 3.621
+            },
+            {
+                "input_name": "Pentadecanes",
+                "mw": null,
+                "molar_amount": 3.279,
+                "mass_amount": 3.713
+            },
+            {
+                "input_name": "Hexadecanes",
+                "mw": null,
+                "molar_amount": 2.831,
+                "mass_amount": 3.454
+            },
+            {
+                "input_name": "Heptadecanes",
+                "mw": null,
+                "molar_amount": 2.544,
+                "mass_amount": 3.314
+            },
+            {
+                "input_name": "Octadecanes",
+                "mw": null,
+                "molar_amount": 2.41,
+                "mass_amount": 3.325
+            },
+            {
+                "input_name": "Nonadecanes",
+                "mw": null,
+                "molar_amount": 2.268,
+                "mass_amount": 3.278
+            },
+            {
+                "input_name": "Eicosanes",
+                "mw": null,
+                "molar_amount": 2.044,
+                "mass_amount": 3.09
+            },
+            {
+                "input_name": "C21",
+                "mw": null,
+                "molar_amount": 1.909,
+                "mass_amount": 3.054
+            },
+            {
+                "input_name": "C22",
+                "mw": null,
+                "molar_amount": 1.738,
+                "mass_amount": 2.866
+            },
+            {
+                "input_name": "C23",
+                "mw": null,
+                "molar_amount": 1.6,
+                "mass_amount": 2.743
+            },
+            {
+                "input_name": "C24",
+                "mw": null,
+                "molar_amount": 1.437,
+                "mass_amount": 2.56
+            },
+            {
+                "input_name": "C25",
+                "mw": null,
+                "molar_amount": 1.285,
+                "mass_amount": 2.38
+            },
+            {
+                "input_name": "C26",
+                "mw": null,
+                "molar_amount": 1.199,
+                "mass_amount": 2.3
+            },
+            {
+                "input_name": "C27",
+                "mw": null,
+                "molar_amount": 1.138,
+                "mass_amount": 2.252
+            },
+            {
+                "input_name": "C28",
+                "mw": null,
+                "molar_amount": 1.107,
+                "mass_amount": 2.264
+            },
+            {
+                "input_name": "C29",
+                "mw": null,
+                "molar_amount": 1.023,
+                "mass_amount": 2.149
+            },
+            {
+                "input_name": "C30",
+                "mw": null,
+                "molar_amount": 0.99,
+                "mass_amount": 2.143
+            },
+            {
+                "input_name": "C31",
+                "mw": null,
+                "molar_amount": 0.882,
+                "mass_amount": 1.959
+            },
+            {
+                "input_name": "C32",
+                "mw": null,
+                "molar_amount": 0.79,
+                "mass_amount": 1.802
+            },
+            {
+                "input_name": "C33",
+                "mw": null,
+                "molar_amount": 0.712,
+                "mass_amount": 1.667
+            },
+            {
+                "input_name": "C34",
+                "mw": null,
+                "molar_amount": 0.647,
+                "mass_amount": 1.555
+            },
+            {
+                "input_name": "C35",
+                "mw": null,
+                "molar_amount": 0.602,
+                "mass_amount": 1.472
+            },
+            {
+                "input_name": "C36+",
+                "mw": null,
+                "molar_amount": 8.411,
+                "mass_amount": 31.64
+            }
+        ]
+    }
+}
