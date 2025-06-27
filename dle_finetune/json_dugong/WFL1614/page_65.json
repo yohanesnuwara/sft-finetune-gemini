@@ -1,0 +1,113 @@
+{
+    "page": "65",
+    "sample_name": "WFL-1614",
+    "experiments": [
+        {
+            "sample_name": "WFL-1614",
+            "continued": false,
+            "saturation_pressure_type": null,
+            "name": "Differential Liberation",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "pressure_unit": "bara",
+            "oil_density_unit": null,
+            "gas_density_unit": null,
+            "gas_viscosity_unit": "cP",
+            "relative_oil_volume_unit": null,
+            "incremental_moles_removed_unit": null,
+            "cumulative_moles_removed_unit": null,
+            "stages": [
+                {
+                    "pressure": 160.3,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.8661,
+                    "gas_specific_gravity": 0.791,
+                    "gas_density": null,
+                    "gas_viscosity": 0.0186,
+                    "gas_plus_fraction_mw": 22.91
+                },
+                {
+                    "pressure": 128.4,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.8711,
+                    "gas_specific_gravity": 0.784,
+                    "gas_density": null,
+                    "gas_viscosity": 0.017,
+                    "gas_plus_fraction_mw": 22.71
+                },
+                {
+                    "pressure": 96.7,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.8846,
+                    "gas_specific_gravity": 0.788,
+                    "gas_density": null,
+                    "gas_viscosity": 0.0157,
+                    "gas_plus_fraction_mw": 22.83
+                },
+                {
+                    "pressure": 64.8,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.9065,
+                    "gas_specific_gravity": 0.813,
+                    "gas_density": null,
+                    "gas_viscosity": 0.0146,
+                    "gas_plus_fraction_mw": 23.54
+                },
+                {
+                    "pressure": 33.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.935,
+                    "gas_specific_gravity": 0.905,
+                    "gas_density": null,
+                    "gas_viscosity": 0.0134,
+                    "gas_plus_fraction_mw": 26.2
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": null,
+                    "oil_density": null,
+                    "gas_z_factor": 0.9931,
+                    "gas_specific_gravity": 1.625,
+                    "gas_density": null,
+                    "gas_viscosity": 0.0105,
+                    "gas_plus_fraction_mw": 47.06
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "table_title": "Table 5.3-4 Differential Liberation of reservoir fluid, bottle no.: WFL-1614, calculated properties of liberated gases",
+        "notes": [
+            "1) Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn. 1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+            "Tpc = Calculated pseudo critical temperature",
+            "Ppc = Calculated pseudo critical pressure",
+            "For Gas gravity, refer to Figure 5.3-5",
+            "For Compressibility factor, refer to Figure 5.3-6",
+            "For Viscosity of gas, refer to Figure 5.3-7"
+        ]
+    }
+}
