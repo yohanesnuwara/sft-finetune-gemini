@@ -1,0 +1,97 @@
+{
+    "page": "78 of 119",
+    "sample_name": "WFL-01718",
+    "experiments": [
+        {
+            "sample_name": "WFL-01718",
+            "name": "Differential Liberation Expansion",
+            "type": "DLE",
+            "pressure_unit": "bara",
+            "gas_plus_fraction_mw_unit": "g/mol",
+            "gas_specific_gravity_unit": "SG",
+            "gas_z_factor_unit": null,
+            "gas_viscosity_unit": "cP",
+            "gas_pseudo_critical_temperature_unit": "K",
+            "gas_pseudo_critical_pressure_unit": "bara",
+            "gas_heating_value_unit": "MJ/m3",
+            "stages": [
+                {
+                    "pressure": 149.7,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 16.93,
+                    "gas_specific_gravity": 0.585,
+                    "gas_z_factor": 0.8732,
+                    "gas_viscosity": 0.0165,
+                    "gas_pseudo_critical_temperature": 195.32,
+                    "gas_pseudo_critical_pressure": 46.02,
+                    "gas_heating_value": 38.7
+                },
+                {
+                    "pressure": 119.9,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 16.91,
+                    "gas_specific_gravity": 0.584,
+                    "gas_z_factor": 0.8806,
+                    "gas_viscosity": 0.0154,
+                    "gas_pseudo_critical_temperature": 195.61,
+                    "gas_pseudo_critical_pressure": 46.06,
+                    "gas_heating_value": 38.787
+                },
+                {
+                    "pressure": 90.1,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 16.94,
+                    "gas_specific_gravity": 0.585,
+                    "gas_z_factor": 0.8973,
+                    "gas_viscosity": 0.0145,
+                    "gas_pseudo_critical_temperature": 196.39,
+                    "gas_pseudo_critical_pressure": 46.11,
+                    "gas_heating_value": 39.043
+                },
+                {
+                    "pressure": 60.5,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 17.05,
+                    "gas_specific_gravity": 0.589,
+                    "gas_z_factor": 0.9226,
+                    "gas_viscosity": 0.0137,
+                    "gas_pseudo_critical_temperature": 197.84,
+                    "gas_pseudo_critical_pressure": 46.19,
+                    "gas_heating_value": 39.455
+                },
+                {
+                    "pressure": 30.6,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 17.41,
+                    "gas_specific_gravity": 0.601,
+                    "gas_z_factor": 0.9561,
+                    "gas_viscosity": 0.0131,
+                    "gas_pseudo_critical_temperature": 200.94,
+                    "gas_pseudo_critical_pressure": 46.28,
+                    "gas_heating_value": 40.238
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "gas_plus_fraction_mw": 19.36,
+                    "gas_specific_gravity": 0.668,
+                    "gas_z_factor": 0.9981,
+                    "gas_viscosity": 0.0124,
+                    "gas_pseudo_critical_temperature": 216.2,
+                    "gas_pseudo_critical_pressure": 46.61,
+                    "gas_heating_value": 44.13
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "remarks": "Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn.1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+        "Tpc": "Calculated pseudo critical temperature",
+        "Ppc": "Calculated pseudo critical pressure",
+        "references": [
+            "For Gas gravity, refer to Figure 5.2-5",
+            "For Compressibility factor, refer to Figure 5.2-6",
+            "For Viscosity of gas, refer to Figure 5.2-7"
+        ]
+    }
+}
