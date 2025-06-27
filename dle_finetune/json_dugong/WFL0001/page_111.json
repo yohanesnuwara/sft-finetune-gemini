@@ -1,0 +1,107 @@
+{
+    "page": "111",
+    "sample_name": "WFL-0001",
+    "continued": false,
+    "experiments": [
+        {
+            "sample_name": "WFL-0001",
+            "saturation_pressure_type": null,
+            "name": "Differential Liberation Expansion",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "pressure_unit": "bara",
+            "gas_mw_unit": "g/mol",
+            "gas_specific_gravity_unit": "SG",
+            "gas_z_factor_unit": null,
+            "gas_viscosity_unit": "cP",
+            "gas_tpc_unit": "K",
+            "gas_ppc_unit": "bara",
+            "heating_value_unit": "MJ/m3",
+            "stages": [
+                {
+                    "pressure": 198.1,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.97,
+                    "gas_specific_gravity": 0.862,
+                    "gas_z_factor": 0.8517,
+                    "gas_viscosity": 0.0217,
+                    "gas_tpc": 235.16,
+                    "gas_ppc": 44.95,
+                    "heating_value": 53.057
+                },
+                {
+                    "pressure": 165.3,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.27,
+                    "gas_specific_gravity": 0.838,
+                    "gas_z_factor": 0.8483,
+                    "gas_viscosity": 0.0193,
+                    "gas_tpc": 232.87,
+                    "gas_ppc": 45.13,
+                    "heating_value": 51.789
+                },
+                {
+                    "pressure": 132.5,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 23.96,
+                    "gas_specific_gravity": 0.827,
+                    "gas_z_factor": 0.8533,
+                    "gas_viscosity": 0.0175,
+                    "gas_tpc": 232.61,
+                    "gas_ppc": 45.25,
+                    "heating_value": 51.352
+                },
+                {
+                    "pressure": 99.6,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.11,
+                    "gas_specific_gravity": 0.832,
+                    "gas_z_factor": 0.8677,
+                    "gas_viscosity": 0.0159,
+                    "gas_tpc": 234.8,
+                    "gas_ppc": 45.33,
+                    "heating_value": 51.833
+                },
+                {
+                    "pressure": 66.7,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.89,
+                    "gas_specific_gravity": 0.859,
+                    "gas_z_factor": 0.8926,
+                    "gas_viscosity": 0.0146,
+                    "gas_tpc": 240.6,
+                    "gas_ppc": 45.36,
+                    "heating_value": 53.559
+                },
+                {
+                    "pressure": 34.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 28.01,
+                    "gas_specific_gravity": 0.967,
+                    "gas_z_factor": 0.9237,
+                    "gas_viscosity": 0.0133,
+                    "gas_tpc": 259.85,
+                    "gas_ppc": 45.15,
+                    "heating_value": 59.79
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 50.23,
+                    "gas_specific_gravity": 1.734,
+                    "gas_z_factor": 0.9921,
+                    "gas_viscosity": 0.0103,
+                    "gas_tpc": 370.59,
+                    "gas_ppc": 40.39,
+                    "heating_value": 105.474
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "calculation_method_viscosity": "Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn. 1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+        "tpc_definition": "Calculated pseudo critical temperature",
+        "ppc_definition": "Calculated pseudo critical pressure"
+    }
+}
