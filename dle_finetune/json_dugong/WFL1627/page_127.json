@@ -1,0 +1,113 @@
+{
+    "page": "127 of 222",
+    "sample_name": "WFL-1627",
+    "experiments": [
+        {
+            "sample_name": "WFL-1627",
+            "continued": false,
+            "saturation_pressure_type": null,
+            "name": "Differential Liberation Expansion",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "dle_experiment_type": null,
+            "pressure_unit": "bara",
+            "gas_mw_unit": "g/mol",
+            "gas_specific_gravity_unit": "SG",
+            "gas_z_factor_unit": null,
+            "gas_viscosity_unit": "cP",
+            "gas_pseudo_critical_temperature_unit": "K",
+            "gas_pseudo_critical_pressure_unit": "bara",
+            "heating_value_unit": "MJ/m3",
+            "stages": [
+                {
+                    "pressure": 193.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 25.23,
+                    "gas_specific_gravity": 0.871,
+                    "gas_z_factor": 0.8548,
+                    "gas_viscosity": 0.0214,
+                    "gas_pseudo_critical_temperature": 236.25,
+                    "gas_pseudo_critical_pressure": 44.95,
+                    "heating_value": 53.378
+                },
+                {
+                    "pressure": 161.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.49,
+                    "gas_specific_gravity": 0.845,
+                    "gas_z_factor": 0.8543,
+                    "gas_viscosity": 0.0191,
+                    "gas_pseudo_critical_temperature": 233.63,
+                    "gas_pseudo_critical_pressure": 45.13,
+                    "heating_value": 52.009
+                },
+                {
+                    "pressure": 129.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.29,
+                    "gas_specific_gravity": 0.839,
+                    "gas_z_factor": 0.859,
+                    "gas_viscosity": 0.0174,
+                    "gas_pseudo_critical_temperature": 233.95,
+                    "gas_pseudo_critical_pressure": 45.23,
+                    "heating_value": 51.779
+                },
+                {
+                    "pressure": 97.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 24.46,
+                    "gas_specific_gravity": 0.844,
+                    "gas_z_factor": 0.8735,
+                    "gas_viscosity": 0.0159,
+                    "gas_pseudo_critical_temperature": 236.27,
+                    "gas_pseudo_critical_pressure": 45.32,
+                    "heating_value": 52.293
+                },
+                {
+                    "pressure": 65.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 25.47,
+                    "gas_specific_gravity": 0.879,
+                    "gas_z_factor": 0.8958,
+                    "gas_viscosity": 0.0147,
+                    "gas_pseudo_critical_temperature": 243.22,
+                    "gas_pseudo_critical_pressure": 45.33,
+                    "heating_value": 54.373
+                },
+                {
+                    "pressure": 33.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 28.79,
+                    "gas_specific_gravity": 0.994,
+                    "gas_z_factor": 0.9257,
+                    "gas_viscosity": 0.0134,
+                    "gas_pseudo_critical_temperature": 263.27,
+                    "gas_pseudo_critical_pressure": 45.05,
+                    "heating_value": 61.052
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 52.13,
+                    "gas_specific_gravity": 1.8,
+                    "gas_z_factor": 0.9919,
+                    "gas_viscosity": 0.0103,
+                    "gas_pseudo_critical_temperature": 377.98,
+                    "gas_pseudo_critical_pressure": 39.86,
+                    "heating_value": 109.39
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "notes": [
+            "Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn.1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+            "Tpc = Calculated pseudo critical temperature",
+            "Ppc = Calculated pseudo critical pressure",
+            "For Gas gravity, refer to Figure 9.3-5",
+            "For Compressibility factor, refer to Figure 9.3-6",
+            "For Viscosity of gas, refer to Figure 9.3-7"
+        ]
+    }
+}
