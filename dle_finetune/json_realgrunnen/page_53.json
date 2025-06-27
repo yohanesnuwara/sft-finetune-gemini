@@ -1,0 +1,100 @@
+{
+    "page": "53",
+    "sample_name": "SR-02520",
+    "continued": false,
+    "experiments": [
+        {
+            "saturation_pressure_type": null,
+            "name": "Differential Liberation Expansion",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "dle_experiment_type": null,
+            "pressure_unit": "bara",
+            "gor_unit": null,
+            "liberated_gas_unit": null,
+            "oil_fvf_unit": null,
+            "oil_density_unit": null,
+            "gas_density_unit": null,
+            "gas_viscosity_unit": "cP",
+            "stages": [
+                {
+                    "pressure": 148.7,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 19.78,
+                    "gas_specific_gravity": 0.683,
+                    "gas_z_factor": 0.8103,
+                    "gas_viscosity": 0.0173,
+                    "gas_tpc": 209.68,
+                    "gas_ppc": 47.19,
+                    "gas_heating_value": 40.416
+                },
+                {
+                    "pressure": 119.1,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 19.65,
+                    "gas_specific_gravity": 0.679,
+                    "gas_z_factor": 0.8273,
+                    "gas_viscosity": 0.0156,
+                    "gas_tpc": 209.2,
+                    "gas_ppc": 47.29,
+                    "gas_heating_value": 40.027
+                },
+                {
+                    "pressure": 89.5,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 19.71,
+                    "gas_specific_gravity": 0.681,
+                    "gas_z_factor": 0.8557,
+                    "gas_viscosity": 0.0143,
+                    "gas_tpc": 209.7,
+                    "gas_ppc": 47.42,
+                    "gas_heating_value": 39.84
+                },
+                {
+                    "pressure": 60.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 20.11,
+                    "gas_specific_gravity": 0.694,
+                    "gas_z_factor": 0.893,
+                    "gas_viscosity": 0.0132,
+                    "gas_tpc": 212.05,
+                    "gas_ppc": 47.62,
+                    "gas_heating_value": 40.021
+                },
+                {
+                    "pressure": 30.3,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 21.51,
+                    "gas_specific_gravity": 0.743,
+                    "gas_z_factor": 0.9369,
+                    "gas_viscosity": 0.0122,
+                    "gas_tpc": 220.12,
+                    "gas_ppc": 48.11,
+                    "gas_heating_value": 41.195
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "gas_mw": 30.72,
+                    "gas_specific_gravity": 1.061,
+                    "gas_z_factor": 0.9957,
+                    "gas_viscosity": 0.0104,
+                    "gas_tpc": 273.74,
+                    "gas_ppc": 48.11,
+                    "gas_heating_value": 56.623
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "notes": [
+            "Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn. 1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+            "Tpc = Calculated pseudo critical temperature",
+            "Ppc = Calculated pseudo critical pressure",
+            "For Gas gravity, refer to Figure 5.2-5",
+            "For Compressibility factor, refer to Figure 5.2-6",
+            "For Viscosity of gas, refer to Figure 5.2-7"
+        ]
+    }
+}
