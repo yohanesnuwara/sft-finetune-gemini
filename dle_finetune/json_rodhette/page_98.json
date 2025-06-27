@@ -1,0 +1,366 @@
+{
+    "page": "98",
+    "sample_name": null,
+    "continued": true,
+    "experiments": [
+        {
+            "sample_name": null,
+            "continued": true,
+            "saturation_pressure_type": null,
+            "name": "Composition of liberated gases",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "liberated_gas_compositions": {
+                "components": [
+                    {
+                        "input_name": "Nitrogen",
+                        "mw": null
+                    },
+                    {
+                        "input_name": "Carbon Dioxide",
+                        "mw": null
+                    },
+                    {
+                        "input_name": "Hydrogen Sulphide",
+                        "mw": null
+                    },
+                    {
+                        "input_name": "Methane",
+                        "mw": null
+                    },
+                    {
+                        "input_name": "Ethane",
+                        "mw": null
+                    },
+                    {
+                        "input_name": "Propane",
+                        "mw": 211.4
+                    },
+                    {
+                        "input_name": "iso-Butane",
+                        "mw": 31.6
+                    },
+                    {
+                        "input_name": "n-Butane",
+                        "mw": 67.1
+                    },
+                    {
+                        "input_name": "Neopentane",
+                        "mw": 0.8
+                    },
+                    {
+                        "input_name": "iso-Pentane",
+                        "mw": 18.8
+                    },
+                    {
+                        "input_name": "n-Pentane",
+                        "mw": 20.1
+                    },
+                    {
+                        "input_name": "Hexanes, C6 total",
+                        "mw": 84.7
+                    },
+                    {
+                        "input_name": "Heptanes, C7 total",
+                        "mw": 90.1
+                    },
+                    {
+                        "input_name": "Octanes, C8 total",
+                        "mw": 102.8
+                    },
+                    {
+                        "input_name": "Nonanes, C9 total",
+                        "mw": 118.2
+                    },
+                    {
+                        "input_name": "Decanes plus, C10+",
+                        "mw": 138.0
+                    }
+                ],
+                "stages": [
+                    {
+                        "stage_number": 4,
+                        "pressure": 70.0,
+                        "composition": [
+                            {
+                                "component_name": "Nitrogen",
+                                "molar_amount": 0.759,
+                                "mass_amount": 0.989
+                            },
+                            {
+                                "component_name": "Carbon Dioxide",
+                                "molar_amount": 1.211,
+                                "mass_amount": 2.481
+                            },
+                            {
+                                "component_name": "Hydrogen Sulphide",
+                                "molar_amount": 0.0,
+                                "mass_amount": 0.0
+                            },
+                            {
+                                "component_name": "Methane",
+                                "molar_amount": 78.488,
+                                "mass_amount": 58.588
+                            },
+                            {
+                                "component_name": "Ethane",
+                                "molar_amount": 9.904,
+                                "mass_amount": 13.857
+                            },
+                            {
+                                "component_name": "Propane",
+                                "molar_amount": 5.741,
+                                "mass_amount": 11.779
+                            },
+                            {
+                                "component_name": "iso-Butane",
+                                "molar_amount": 0.722,
+                                "mass_amount": 1.951
+                            },
+                            {
+                                "component_name": "n-Butane",
+                                "molar_amount": 1.592,
+                                "mass_amount": 4.305
+                            },
+                            {
+                                "component_name": "Neopentane",
+                                "molar_amount": 0.016,
+                                "mass_amount": 0.055
+                            },
+                            {
+                                "component_name": "iso-Pentane",
+                                "molar_amount": 0.384,
+                                "mass_amount": 1.289
+                            },
+                            {
+                                "component_name": "n-Pentane",
+                                "molar_amount": 0.414,
+                                "mass_amount": 1.391
+                            },
+                            {
+                                "component_name": "Hexanes, C6 total",
+                                "molar_amount": 0.3,
+                                "mass_amount": 1.183
+                            },
+                            {
+                                "component_name": "Heptanes, C7 total",
+                                "molar_amount": 0.269,
+                                "mass_amount": 1.129
+                            },
+                            {
+                                "component_name": "Octanes, C8 total",
+                                "molar_amount": 0.153,
+                                "mass_amount": 0.73
+                            },
+                            {
+                                "component_name": "Nonanes, C9 total",
+                                "molar_amount": 0.032,
+                                "mass_amount": 0.178
+                            },
+                            {
+                                "component_name": "Decanes plus, C10+",
+                                "molar_amount": 0.015,
+                                "mass_amount": 0.096
+                            }
+                        ]
+                    },
+                    {
+                        "stage_number": 5,
+                        "pressure": 35.0,
+                        "composition": [
+                            {
+                                "component_name": "Nitrogen",
+                                "molar_amount": 0.342,
+                                "mass_amount": 0.427
+                            },
+                            {
+                                "component_name": "Carbon Dioxide",
+                                "molar_amount": 1.437,
+                                "mass_amount": 2.817
+                            },
+                            {
+                                "component_name": "Hydrogen Sulphide",
+                                "molar_amount": 0.0,
+                                "mass_amount": 0.0
+                            },
+                            {
+                                "component_name": "Methane",
+                                "molar_amount": 74.125,
+                                "mass_amount": 52.971
+                            },
+                            {
+                                "component_name": "Ethane",
+                                "molar_amount": 12.765,
+                                "mass_amount": 17.098
+                            },
+                            {
+                                "component_name": "Propane",
+                                "molar_amount": 7.046,
+                                "mass_amount": 13.841
+                            },
+                            {
+                                "component_name": "iso-Butane",
+                                "molar_amount": 0.819,
+                                "mass_amount": 2.12
+                            },
+                            {
+                                "component_name": "n-Butane",
+                                "molar_amount": 1.767,
+                                "mass_amount": 4.576
+                            },
+                            {
+                                "component_name": "Neopentane",
+                                "molar_amount": 0.018,
+                                "mass_amount": 0.059
+                            },
+                            {
+                                "component_name": "iso-Pentane",
+                                "molar_amount": 0.424,
+                                "mass_amount": 1.361
+                            },
+                            {
+                                "component_name": "n-Pentane",
+                                "molar_amount": 0.465,
+                                "mass_amount": 1.494
+                            },
+                            {
+                                "component_name": "Hexanes, C6 total",
+                                "molar_amount": 0.326,
+                                "mass_amount": 1.228
+                            },
+                            {
+                                "component_name": "Heptanes, C7 total",
+                                "molar_amount": 0.273,
+                                "mass_amount": 1.097
+                            },
+                            {
+                                "component_name": "Octanes, C8 total",
+                                "molar_amount": 0.154,
+                                "mass_amount": 0.701
+                            },
+                            {
+                                "component_name": "Nonanes, C9 total",
+                                "molar_amount": 0.03,
+                                "mass_amount": 0.155
+                            },
+                            {
+                                "component_name": "Decanes plus, C10+",
+                                "molar_amount": 0.009,
+                                "mass_amount": 0.054
+                            }
+                        ]
+                    },
+                    {
+                        "stage_number": 6,
+                        "pressure": 1.0,
+                        "composition": [
+                            {
+                                "component_name": "Nitrogen",
+                                "molar_amount": 0.0,
+                                "mass_amount": 0.0
+                            },
+                            {
+                                "component_name": "Carbon Dioxide",
+                                "molar_amount": 1.282,
+                                "mass_amount": 1.532
+                            },
+                            {
+                                "component_name": "Hydrogen Sulphide",
+                                "molar_amount": 0.0,
+                                "mass_amount": 0.0
+                            },
+                            {
+                                "component_name": "Methane",
+                                "molar_amount": 31.118,
+                                "mass_amount": 13.558
+                            },
+                            {
+                                "component_name": "Ethane",
+                                "molar_amount": 21.884,
+                                "mass_amount": 17.871
+                            },
+                            {
+                                "component_name": "Propane",
+                                "molar_amount": 25.868,
+                                "mass_amount": 30.977
+                            },
+                            {
+                                "component_name": "iso-Butane",
+                                "molar_amount": 3.669,
+                                "mass_amount": 5.791
+                            },
+                            {
+                                "component_name": "n-Butane",
+                                "molar_amount": 8.59,
+                                "mass_amount": 13.56
+                            },
+                            {
+                                "component_name": "Neopentane",
+                                "molar_amount": 0.087,
+                                "mass_amount": 0.17
+                            },
+                            {
+                                "component_name": "iso-Pentane",
+                                "molar_amount": 2.064,
+                                "mass_amount": 4.043
+                            },
+                            {
+                                "component_name": "n-Pentane",
+                                "molar_amount": 2.173,
+                                "mass_amount": 4.257
+                            },
+                            {
+                                "component_name": "Hexanes, C6 total",
+                                "molar_amount": 1.366,
+                                "mass_amount": 3.134
+                            },
+                            {
+                                "component_name": "Heptanes, C7 total",
+                                "molar_amount": 1.115,
+                                "mass_amount": 2.704
+                            },
+                            {
+                                "component_name": "Octanes, C8 total",
+                                "molar_amount": 0.526,
+                                "mass_amount": 1.467
+                            },
+                            {
+                                "component_name": "Nonanes, C9 total",
+                                "molar_amount": 0.16,
+                                "mass_amount": 0.512
+                            },
+                            {
+                                "component_name": "Decanes plus, C10+",
+                                "molar_amount": 0.099,
+                                "mass_amount": 0.424
+                            }
+                        ]
+                    }
+                ]
+            },
+            "pressure_unit": "bara",
+            "gor_unit": "Sm3/Sm3",
+            "liberated_gas_unit": "Sm3/Sm3",
+            "oil_fvf_unit": null,
+            "oil_density_unit": null,
+            "gas_density_unit": null,
+            "gas_viscosity_unit": null
+        }
+    ],
+    "Other_information": {
+        "average_molecular_weight_stage_4": 21.49,
+        "average_molecular_weight_stage_5": 22.45,
+        "average_molecular_weight_stage_6": 36.82,
+        "gas_gravity_stage_4": 0.742,
+        "gas_gravity_stage_5": 0.775,
+        "gas_gravity_stage_6": 1.271,
+        "average_molecular_weight_c7_plus_stage_4": 98.0,
+        "average_molecular_weight_c7_plus_stage_5": 97.0,
+        "average_molecular_weight_c7_plus_stage_6": 99.0,
+        "density_c7_plus_stage_4": 759.0,
+        "density_c7_plus_stage_5": 759.0,
+        "density_c7_plus_stage_6": 763.0,
+        "density_c7_plus_unit": "kg/m3"
+    }
+}

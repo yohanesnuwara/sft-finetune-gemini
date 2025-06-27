@@ -1,0 +1,115 @@
+{
+    "page": "100",
+    "sample_name": "61094+61070",
+    "experiments": [
+        {
+            "sample_name": "61094+61070",
+            "continued": false,
+            "saturation_pressure_type": null,
+            "name": "Differential Liberation",
+            "type": "DLE",
+            "temperature": null,
+            "temperature_unit": null,
+            "dle_experiment_type": null,
+            "liberated_gas_compositions": null,
+            "evolved_gas_specific_gravity": null,
+            "evolved_gas_composition_id": null,
+            "evolved_gas_composition": null,
+            "average_residual_oil_mw": null,
+            "average_residual_oil_density": null,
+            "average_residual_oil_density_unit": null,
+            "residual_oil_composition": null,
+            "pressure_unit": "bara",
+            "gor_unit": null,
+            "liberated_gas_unit": null,
+            "oil_fvf_unit": null,
+            "oil_density_unit": null,
+            "gas_density_unit": null,
+            "gas_viscosity_unit": "cP",
+            "gas_specific_gravity_unit": "SG",
+            "gas_z_factor_unit": null,
+            "pseudo_critical_temperature_unit": "K",
+            "pseudo_critical_pressure_unit": "bara",
+            "heating_value_unit": "MJ/m3",
+            "stages": [
+                {
+                    "pressure": 176.0,
+                    "is_saturation_pressure": null,
+                    "mw": 21.61,
+                    "gas_specific_gravity": 0.746,
+                    "gas_z_factor": 0.7959,
+                    "gas_viscosity": 0.0199,
+                    "pseudo_critical_temperature": 219.14,
+                    "pseudo_critical_pressure": 45.34,
+                    "heating_value": 46.976
+                },
+                {
+                    "pressure": 136.0,
+                    "is_saturation_pressure": null,
+                    "mw": 21.11,
+                    "gas_specific_gravity": 0.729,
+                    "gas_z_factor": 0.8037,
+                    "gas_viscosity": 0.017,
+                    "pseudo_critical_temperature": 217.57,
+                    "pseudo_critical_pressure": 45.5,
+                    "heating_value": 46.132
+                },
+                {
+                    "pressure": 106.0,
+                    "is_saturation_pressure": null,
+                    "mw": 20.73,
+                    "gas_specific_gravity": 0.716,
+                    "gas_z_factor": 0.8293,
+                    "gas_viscosity": 0.0153,
+                    "pseudo_critical_temperature": 216.35,
+                    "pseudo_critical_pressure": 45.63,
+                    "heating_value": 45.576
+                },
+                {
+                    "pressure": 70.0,
+                    "is_saturation_pressure": null,
+                    "mw": 21.49,
+                    "gas_specific_gravity": 0.742,
+                    "gas_z_factor": 0.8603,
+                    "gas_viscosity": 0.0137,
+                    "pseudo_critical_temperature": 223.18,
+                    "pseudo_critical_pressure": 45.96,
+                    "heating_value": 46.942
+                },
+                {
+                    "pressure": 35.0,
+                    "is_saturation_pressure": null,
+                    "mw": 22.45,
+                    "gas_specific_gravity": 0.775,
+                    "gas_z_factor": 0.9187,
+                    "gas_viscosity": 0.0125,
+                    "pseudo_critical_temperature": 230.24,
+                    "pseudo_critical_pressure": 46.07,
+                    "heating_value": 48.911
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": null,
+                    "mw": 36.82,
+                    "gas_specific_gravity": 1.271,
+                    "gas_z_factor": 0.9934,
+                    "gas_viscosity": 0.01,
+                    "pseudo_critical_temperature": 313.33,
+                    "pseudo_critical_pressure": 43.73,
+                    "heating_value": 78.384
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "table_title": "Table 7.3-4 Differential Liberation of mixed reservoir fluid, bottle no.: 61094 and 61070, calculated properties of liberated gases",
+        "notes": [
+            "1) Calculated in accordance to: Lee, A.L., Gonzales, M.H., and Eakin, B.E., J.Petr. Techn.1966, pages 977-1000, \"The Viscosity of natural Gases\"",
+            "Tpc = Calculated pseudo critical temperature",
+            "Ppc = Calculated pseudo critical pressure",
+            "For Gas gravity, refer to Figure 7.3-5",
+            "For Compressibility factor, refer to Figure 7.3-6",
+            "For Viscosity of gas, refer to Figure 7.3-7"
+        ]
+    }
+}
