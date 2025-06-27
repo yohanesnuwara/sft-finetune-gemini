@@ -1,0 +1,162 @@
+{
+    "page": "49 of 95",
+    "sample_name": "SR-02520",
+    "experiments": [
+        {
+            "sample_name": "SR-02520",
+            "saturation_pressure_type": "Bubblepoint",
+            "name": "Differential Liberation Expansion",
+            "type": "DLE",
+            "temperature": 55.6,
+            "temperature_unit": "C",
+            "dle_experiment_type": "Standard DLE Experiment",
+            "pressure_unit": "bara",
+            "gor_unit": "Sm3/Sm3",
+            "oil_fvf_unit": "Sm3/Sm3",
+            "gas_fvf_unit": "Sm3/Sm3",
+            "oil_density_unit": "kg/m3",
+            "total_fvf_unit": "Sm3/Sm3",
+            "stages": [
+                {
+                    "pressure": 351.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.2795,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 738.0,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 326.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.284,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 735.4,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 301.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.2887,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 732.8,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 276.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.294,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 729.8,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 251.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.2996,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 726.6,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 226.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.3047,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 723.8,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 201.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.3113,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 720.2,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 182.9,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.3157,
+                    "gor": null,
+                    "gas_fvf": null,
+                    "oil_density": 717.7,
+                    "total_fvf": null
+                },
+                {
+                    "pressure": 177.4,
+                    "is_saturation_pressure": true,
+                    "oil_fvf": 1.3171,
+                    "gor": 116.4,
+                    "gas_fvf": null,
+                    "oil_density": 717.0,
+                    "total_fvf": 1.3171
+                },
+                {
+                    "pressure": 148.7,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.2734,
+                    "gor": 98.1,
+                    "gas_fvf": 0.00632,
+                    "oil_density": 729.6,
+                    "total_fvf": 1.3891
+                },
+                {
+                    "pressure": 119.1,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.2295,
+                    "gor": 79.3,
+                    "gas_fvf": 0.00806,
+                    "oil_density": 742.8,
+                    "total_fvf": 1.5294
+                },
+                {
+                    "pressure": 89.5,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.188,
+                    "gor": 60.4,
+                    "gas_fvf": 0.0111,
+                    "oil_density": 755.5,
+                    "total_fvf": 1.8081
+                },
+                {
+                    "pressure": 60.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.1469,
+                    "gor": 42.1,
+                    "gas_fvf": 0.0173,
+                    "oil_density": 769.0,
+                    "total_fvf": 2.4328
+                },
+                {
+                    "pressure": 30.3,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.1065,
+                    "gor": 24.1,
+                    "gas_fvf": 0.0359,
+                    "oil_density": 782.3,
+                    "total_fvf": 4.4206
+                },
+                {
+                    "pressure": 1.0,
+                    "is_saturation_pressure": false,
+                    "oil_fvf": 1.0452,
+                    "gor": 0.0,
+                    "gas_fvf": null,
+                    "oil_density": 798.3,
+                    "total_fvf": null
+                }
+            ]
+        }
+    ],
+    "Other_information": {
+        "average_residual_oil_density": 834.3,
+        "average_residual_oil_density_unit": "kg/m3"
+    }
+}
